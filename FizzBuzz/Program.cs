@@ -29,8 +29,7 @@ IList<string> FizzBuzz(int n)
 }
 
 
-
-foreach (string item in FizzBuzz(5))
+foreach (string item in FizzBuzz(15))
 {
 	Console.WriteLine(item);
 }
