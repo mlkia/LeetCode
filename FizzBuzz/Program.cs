@@ -31,9 +31,11 @@ IList<string> FizzBuzz(int n)
 
 foreach (string item in FizzBuzz(15))
 {
-	Console.WriteLine(item);
+	Console.Write($"{item}, ");
 }
 
 Console.WriteLine ("----------------------------------------------------");
 Console.WriteLine ("Big o (Time Complexity) of this is O(n)");	
 Console.WriteLine ("----------------------------------------------------");
+
+//Output:1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
