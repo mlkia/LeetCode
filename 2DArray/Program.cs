@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+//1672. Richest Customer Wealth
+//https://leetcode.com/problems/richest-customer-wealth/
+
 
 
 
