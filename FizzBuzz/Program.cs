@@ -1,5 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+//412. Fizz Buzz
+//https://leetcode.com/problems/fizz-buzz/
+
 List <string> Output = new List <string> ();
 
 IList<string> FizzBuzz(int n) 
